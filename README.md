@@ -1,2 +1,2 @@
 # hello-world
-tutorial repository
+This is J. I'm trying to learn how to use GitHub.
